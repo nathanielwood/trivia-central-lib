@@ -1,0 +1,24 @@
+{
+  "name": "trivia-central-lib",
+  "version": "1.0.0",
+  "description": "Shared library for Trivia Central",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo todo"
+  },
+  "author": "Nathaniel Wood",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanielwood/trivia-central-lib.git"
+  },
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0",
+  },
+  "dependencies": {
+    "babel-core": "^6.7.2",
+    "validator": "^5.1.0"
+  }
+}

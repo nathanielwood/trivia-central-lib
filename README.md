@@ -1,2 +1,2 @@
 ## Synopsis
-Shared library for Trivia Central
+Shared library for Trivia Station

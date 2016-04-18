@@ -1,7 +1,7 @@
 {
-  "name": "trivia-central-lib",
+  "name": "trivia-station-lib",
   "version": "1.0.0",
-  "description": "Shared library for Trivia Central",
+  "description": "Shared library for Trivia Station",
   "main": "index.js",
   "scripts": {
     "start": "babel-node ./validations",
@@ -11,7 +11,7 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nathanielwood/trivia-central-lib.git"
+    "url": "https://github.com/nathanielwood/trivia-station-lib.git"
   },
   "devDependencies": {
     "babel-cli": "^6.6.4",
